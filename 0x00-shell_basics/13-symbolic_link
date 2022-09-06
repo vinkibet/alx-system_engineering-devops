@@ -1,0 +1,5 @@
+#!/bin/bash
+touch alx-system_engineering-devops/0x00-shell_basics/__ls__
+ls -las /bin/ls alx-system_engineering-devops/0x00-shell_basics/__ls__
+ls alx-system_engineering-devops/0x00-shell_basics/
+
